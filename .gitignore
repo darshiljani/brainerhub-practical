@@ -1,0 +1,8 @@
+# Virtual environment
+venv/
+
+# Testing Database
+db.sqlite3
+
+# Compiled byte code
+*.py[cod]
